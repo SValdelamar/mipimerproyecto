@@ -1,3 +1,3 @@
 # Mi primer proyecto
-Actualizacion desde el gith
+Actualizacion desde el gith git
 
